@@ -16,7 +16,7 @@
 </p> -->
  
 ## 💻 Projeto
-Interface principal do Google desenvolvida com HTML, CSS e JavaScript, para fins de estudos.
+Interface principal do Google desenvolvida com HTML, CSS e JavaScript. Tela 100% responsiva.
 
 ## 🔗 Link
 https://google-homepage-orpin.vercel.app
