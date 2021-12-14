@@ -15,20 +15,20 @@
 
 ### 📱 Mobile
 <p align="center">
-<img width="200" src="./assets/mobile1.png" alt="Phone1">  
+<img width="400" src="./assets/mobile1.png" alt="Phone1">  
 </p>
 
 ---
   
 ### 💻 Desktop
 <p align="center">
-<img width="600" src="./assets/desk1.png" alt="Desktop1">  
+<img width="1000" src="./assets/desk1.png" alt="Desktop1">  
 </p>
-
----  
 
 ## 🔗 Link
 https://google-homepage-orpin.vercel.app
+
+---
 
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/PhOmena" target="_blank">PhOmena</a> </h4>
 
