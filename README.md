@@ -16,14 +16,14 @@
 
 ### 📱 About the Mobile
 <p align="center">
-<img width="400" src="./assets/mobile1.png" alt="Phone1">  
+<img width="250" src="./assets/mobile1.png" alt="Phone1">  
 </p>
 
 ---
   
 ### 💻 About the Desktop
 <p align="center">
-<img width="1000" src="./assets/desk1.png" alt="Desktop1">  
+<img width="500" src="./assets/desk1.png" alt="Desktop1">  
 </p>
 
 ## 🔗 Link
